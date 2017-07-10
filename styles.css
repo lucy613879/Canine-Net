@@ -1,0 +1,97 @@
+html, body {
+    background-color:lightblue;
+    margin: 0px;
+    padding: 0px;
+}
+
+#title {
+    color: maroon;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 0px;
+    font-family: 'Lobster Two';
+}
+
+#slogan {
+	color: 789377;
+	text-align: center;
+	font-size:20px;
+	margin-top:0px;
+}
+#paw {height:65px;
+	width:65px;
+}
+#topbar{height:50px;
+	width:100%;
+	background-color: #73C6B6;
+	text-align: center;}
+.buttons{
+	font-family:'Shrikhand';
+	font-size: 20px;
+	line-height: 50px;	
+}
+
+#home{margin-right: 50px;
+	margin-left: 150px
+}
+#Suggested{margin-left: 50px}
+#Bichon{
+	display: block;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+#Featured{
+	text-align: center;
+	margin-top: 60px;
+}
+.picstext{
+	text-align: center;
+}
+#Golden{
+	height: 300px;
+	width: 300px;
+	margin-left: 500px;
+
+}
+#labrador{
+	height: 300px;
+	width: 300px;
+	margin-left: 500px;
+}
+#brittany{
+	height: 250px;
+	width: 300px;
+	margin-left: 500px;
+}
+#shihtzu{
+	height: 250px;
+	width: 300px;
+	margin-left: 500px;
+
+}
+#akc{
+	color: blue;
+	margin-left: 175px;
+	margin-top: 400px;
+	font-size: 25px;
+}
+#dogtime{
+	margin-left: 175px;
+	font-size: 25px;
+	margin-top: 175px
+}
+#petmd{
+	margin-left: 175px;
+	font-size: 25px;
+	text-decoration-color: blue;
+	color: blue;
+}
+.links{
+	margin-left: 175px;
+	font-size: 25px;
+	text-decoration-color: blue;
+	color: blue;
+}
+}
